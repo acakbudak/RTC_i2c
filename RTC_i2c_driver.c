@@ -2,7 +2,7 @@
  * RTC_i2c_driver.c
  *
  *  Created on: 6 Nis 2020
- *      Author: lenovo
+ *      Author: acakbudak
  */
 
 #include "RTC_i2c_driver.h"
