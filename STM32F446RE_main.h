@@ -2,7 +2,7 @@
  * STM32F446RE_main.h
  *
  *  Created on: 6 Nis 2020
- *      Author: lenovo
+ *      Author: acakbudak
  */
 
 #ifndef INC_STM32F446RE_MAIN_H_
