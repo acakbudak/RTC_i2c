@@ -2,7 +2,8 @@
  * main.c
  *
  *  Created on: 6 Nis 2020
- *      Author: lenovo
+ *      Author: acakbudak
+ 
  */
 
 #include "STM32F446RE_main.h"
